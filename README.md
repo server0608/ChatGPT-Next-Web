@@ -6,7 +6,7 @@
 
 <h1 align="center">NextChat (ChatGPT Next Web)</h1>
 
-English / [简体中文](./README_CN.md)
+English / [简体文](./README_CN.md)
 
 One-Click to get a well-designed cross-platform ChatGPT web UI, with GPT3, GPT4 & Gemini Pro support.
 
